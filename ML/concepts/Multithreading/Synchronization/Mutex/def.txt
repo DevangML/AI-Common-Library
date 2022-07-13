@@ -1,0 +1,1 @@
+A Mutex is a Mutually exclusive flag. It acts as a gate keeper to a section of code allowing one thread in and blocking access to all others. This ensures that the code being controlled will only be hit by a single thread at a time. Just be sure to release the mutex when you are done. :)

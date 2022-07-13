@@ -1,0 +1,1 @@
+Coroutines are generalizations of subroutines. They are used for cooperative multitasking where a process voluntarily yield (give away) control periodically or when idle in order to enable multiple applications to be run simultaneously.
